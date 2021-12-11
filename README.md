@@ -1,9 +1,5 @@
 ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">
-
-- 🔭 I’m currently working on an Python app
-- 🌱 I’m currently learning ethical hacking, Swift and SwiftUI
-- 📫 You can reach me on <img src="https://img.icons8.com/ios/50/000000/discord-logo--v2.png"/>
-
+<img src="https://img.icons8.com/color/48/000000/discord-logo.png"/>
 <details>
 <summary>Click for GitHub Stats</summary>
 <p align="center">
