@@ -8,10 +8,10 @@
 <summary>Click for GitHub Stats</summary>
 <p align="center">
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=educatorsRlearners&count_private=true&show_icons=true&include_all_commits=true)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Aventure20&count_private=true&show_icons=true&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=educatorsRlearners&hide=TeX&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aventure20&hide=TeX&layout=compact)
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=educatorsRlearners.educatorsRlearners)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=Aventure20.Aventure20)
 </p>
 </details>
